@@ -1,6 +1,6 @@
 O App lista Tarefas faz parte dos meus estudos sobre banco de dados com PHP
  
-A aplicação possui 3 telas
+A aplicação possui 3 telas.
  
 Tarefas pendentes:
 Responsável por exibir as novas tarefas e tarefas que ainda não foram marcadas como "concluídas"
